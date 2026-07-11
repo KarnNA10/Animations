@@ -1,0 +1,68 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="TIME_S" ID="1" Modified="2026-06-05 21:21:08">
+ <Element Name="base" Folder="base" ID="1">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="fondooo" Folder="fondooo" ID="2">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="canon" Folder="canon" ID="3">
+  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="2" Version="1" Key=""/>
+  <Drawing Name="3" Version="1" Key=""/>
+  <Drawing Name="4" Version="1" Key=""/>
+  <Drawing Name="5" Version="1" Key=""/>
+  <Drawing Name="6" Version="1" Key=""/>
+  <Drawing Name="7" Version="1" Key=""/>
+  <Drawing Name="8" Version="1" Key=""/>
+  <Drawing Name="9" Version="1" Key=""/>
+ </Element>
+ <Element Name="mecha" Folder="mecha" ID="4">
+  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="2" Version="1" Key=""/>
+  <Drawing Name="3" Version="1" Key=""/>
+  <Drawing Name="4" Version="1" Key=""/>
+  <Drawing Name="5" Version="1" Key=""/>
+  <Drawing Name="6" Version="1" Key=""/>
+  <Drawing Name="7" Version="1" Key=""/>
+  <Drawing Name="8" Version="1" Key=""/>
+  <Drawing Name="9" Version="1" Key=""/>
+  <Drawing Name="10" Version="1" Key=""/>
+  <Drawing Name="11" Version="1" Key=""/>
+  <Drawing Name="12" Version="1" Key=""/>
+ </Element>
+ <Element Name="rueda" Folder="rueda" ID="5">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="humo" Folder="humo" ID="6"/>
+ <Element Name="bala" Folder="bala" ID="7">
+  <Drawing Name="12" Version="1" Key=""/>
+  <Drawing Name="13" Version="1" Key=""/>
+  <Drawing Name="14" Version="1" Key=""/>
+  <Drawing Name="15" Version="1" Key=""/>
+  <Drawing Name="16" Version="1" Key=""/>
+  <Drawing Name="17" Version="1" Key=""/>
+  <Drawing Name="18" Version="1" Key=""/>
+  <Drawing Name="19" Version="1" Key=""/>
+  <Drawing Name="20" Version="1" Key=""/>
+  <Drawing Name="21" Version="1" Key=""/>
+ </Element>
+ <Element Name="base2" Folder="base2" ID="8">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="bala2" Folder="bala2" ID="9">
+  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="2" Version="1" Key=""/>
+  <Drawing Name="3" Version="1" Key=""/>
+  <Drawing Name="4" Version="1" Key=""/>
+  <Drawing Name="5" Version="1" Key=""/>
+  <Drawing Name="6" Version="1" Key=""/>
+  <Drawing Name="7" Version="1" Key=""/>
+  <Drawing Name="8" Version="1" Key=""/>
+  <Drawing Name="9" Version="1" Key=""/>
+  <Drawing Name="10" Version="1" Key=""/>
+  <Drawing Name="11" Version="1" Key=""/>
+  <Drawing Name="12" Version="1" Key=""/>
+  <Drawing Name="13" Version="1" Key=""/>
+ </Element>
+</SceneVersion>
