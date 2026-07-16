@@ -41,11 +41,44 @@
     <dwg name="36"/>
    </drawings>
   </element>
-  <element id="3" elementName="detective" elementFolder="detective" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+  <element id="3" elementName="lieutenant" elementFolder="lieutenant" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
     <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
+    <dwg name="33"/>
+    <dwg name="34"/>
+    <dwg name="35"/>
+    <dwg name="36"/>
    </drawings>
   </element>
  </elements>
@@ -67,7 +100,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0d3bb87c2f401770" nbframes="36" startFrame="1" stopFrame="36">
+  <scene name="Top" id="0d3bb87c2f401770" nbframes="36" startFrame="1" stopFrame="24">
    <columns>
     <column type="0" name="ATV-0DAF3B50B8877CF92F401F9E" displayOrder="0" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
@@ -111,6 +144,39 @@
      <elementSeq exposures="1" val="1" id="3"/>
      <elementSeq exposures="2" val="2" id="3"/>
      <elementSeq exposures="3" val="3" id="3"/>
+     <elementSeq exposures="4" val="4" id="3"/>
+     <elementSeq exposures="5" val="5" id="3"/>
+     <elementSeq exposures="6" val="6" id="3"/>
+     <elementSeq exposures="7" val="7" id="3"/>
+     <elementSeq exposures="8" val="8" id="3"/>
+     <elementSeq exposures="9" val="9" id="3"/>
+     <elementSeq exposures="10" val="10" id="3"/>
+     <elementSeq exposures="11" val="11" id="3"/>
+     <elementSeq exposures="12" val="12" id="3"/>
+     <elementSeq exposures="13" val="13" id="3"/>
+     <elementSeq exposures="14" val="14" id="3"/>
+     <elementSeq exposures="15" val="15" id="3"/>
+     <elementSeq exposures="16" val="16" id="3"/>
+     <elementSeq exposures="17" val="17" id="3"/>
+     <elementSeq exposures="18" val="18" id="3"/>
+     <elementSeq exposures="19" val="19" id="3"/>
+     <elementSeq exposures="20" val="20" id="3"/>
+     <elementSeq exposures="21" val="21" id="3"/>
+     <elementSeq exposures="22" val="22" id="3"/>
+     <elementSeq exposures="23" val="23" id="3"/>
+     <elementSeq exposures="24" val="24" id="3"/>
+     <elementSeq exposures="25" val="25" id="3"/>
+     <elementSeq exposures="26" val="26" id="3"/>
+     <elementSeq exposures="27" val="27" id="3"/>
+     <elementSeq exposures="28" val="28" id="3"/>
+     <elementSeq exposures="29" val="29" id="3"/>
+     <elementSeq exposures="30" val="30" id="3"/>
+     <elementSeq exposures="31" val="31" id="3"/>
+     <elementSeq exposures="32" val="32" id="3"/>
+     <elementSeq exposures="33" val="33" id="3"/>
+     <elementSeq exposures="34" val="34" id="3"/>
+     <elementSeq exposures="35" val="35" id="3"/>
+     <elementSeq exposures="36" val="36" id="3"/>
     </column>
    </columns>
    <options>
@@ -355,7 +421,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="detective" pos="0,0,1" publishUnderTab="detective">
+     <module type="READ" name="lieutenant" pos="-2,0,1" publishUnderTab="detective">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -473,7 +539,7 @@
      <link out="Composite" in="Write"/>
      <link out="lalaland_0253" in="Composite" inport="0"/>
      <link out="Peg" in="lalaland_0253" inport="0"/>
-     <link out="detective" in="Composite" inport="1"/>
+     <link out="lieutenant" in="Composite" inport="1"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
@@ -521,7 +587,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="6C000000000000000303DE23577AB3B3F9DC1319B3D5169685CC9F598574CCBB584E917B5E97114D5422828540D03EE6397FF6C26AA7F8F1EE35E571CDE37523DE88A1DC7E5D13902474DD986F6270689BBF8AB0B854AE7A5CE8B7853D2585D01DAEF2E23CCA318870C3850DF62C18182BDDEE316B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D4445794E7A45344D6A55774E6C6F5844544D324D4445794E6A45344D6A55774E6C6F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D4442714F485A33596B4642515442634D413047435371475349623344514542415155410A413073414D4567435151444A56706D583861423851727477495667495135785367582F556C775966495A507668367347376668627A4C43556F6F4945512F38380A4C67444E51444F3934437276397474757132523534775A49482F34736F49316E41674D42414145774451594A4B6F5A496876634E4151454642514144675945410A43642F2F4673384B74582B574B6976313474494C56412B65736178456D6C4147414A58336E346D34354B55552B33474C3076394D306A364F466B486B4E6541380A546B58754F3154493553704C334535584B444C4143564E57373352306B39522F6133535A5A3470556B75366D726267796A552B5A334E66736C346D49555838610A695773366A4B556D4E736964324C616C4A4A49577A4854706264676C70583458384D38394E7767335168343D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A4000000031D8A1342833A8C42ACCFA79411F70CC8448E25095726975AFD5D6B3E375A053D67E291A96D66E1C64F9A0EA9A9BD33341ADC454A1261D2D624D04FCFCE8824E"/>
+   <value data="6C00000000000000030315E89CB178783217D8D2781EDD5D4E0754924EBF077093855AB0955CDA869FE9494E8B1BF52DF2B43D09A16C333A25FE2EBA0628BEE815436A17B596D85BEFBF1653A4A9BBA35074417B739F65B197237C4EF6EE4E1BD6653929F701FA43BB084EC63DE7D3D3E01625FA6B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D4445794E7A45344D6A55774E6C6F5844544D324D4445794E6A45344D6A55774E6C6F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D4442714F485A33596B4642515442634D413047435371475349623344514542415155410A413073414D4567435151444A56706D583861423851727477495667495135785367582F556C775966495A507668367347376668627A4C43556F6F4945512F38380A4C67444E51444F3934437276397474757132523534775A49482F34736F49316E41674D42414145774451594A4B6F5A496876634E4151454642514144675945410A43642F2F4673384B74582B574B6976313474494C56412B65736178456D6C4147414A58336E346D34354B55552B33474C3076394D306A364F466B486B4E6541380A546B58754F3154493553704C334535584B444C4143564E57373352306B39522F6133535A5A3470556B75366D726267796A552B5A334E66736C346D49555838610A695773366A4B556D4E736964324C616C4A4A49577A4854706264676C70583458384D38394E7767335168343D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000001DF78FD2688B3B4398E5A1C0856F9691CF79D599FD05C8A922DCFBB9D61B4468340956580D3D14FE0DAA6990630E5605B500310796E7486EF026762E2BBF456F"/>
   </meta>
  </metas>
 </project>
