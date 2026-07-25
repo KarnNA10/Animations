@@ -126,6 +126,7 @@
     <dwg name="36"/>
    </drawings>
   </element>
+  <element id="6" elementName="Fondo" elementFolder="Fondo" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -147,7 +148,7 @@
  <scenes>
   <scene name="Top" id="0d3bb87c2f401770" nbframes="36" startFrame="1" stopFrame="36">
    <columns>
-    <column type="0" name="ATV-0DAF3B50B8877CF92F401F9E" displayOrder="0" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-0DAF3B50B8877CF92F401F9E" display="false" displayOrder="0" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
      <elementSeq exposures="2" val="2" id="2"/>
      <elementSeq exposures="3" val="3" id="2"/>
@@ -264,6 +265,7 @@
      <elementSeq exposures="35" val="35" id="5"/>
      <elementSeq exposures="36" val="36" id="5"/>
     </column>
+    <column type="0" name="ATV-0DA43E5B7DA9A6774F2DB7CA" displayOrder="0" width="100" anonymous="true" id="6"/>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -273,7 +275,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,6" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="0,0,7" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -292,13 +294,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,7" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,8" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,8" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,9" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -331,8 +333,9 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="lalaland_0253" pos="89,-56,5" publishUnderTab="lalaland_0253">
+     <module type="READ" name="lalaland_0253" pos="89,-56,6" publishUnderTab="lalaland_0253">
       <options>
+       <disabled val="true"/>
        <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
@@ -444,8 +447,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Peg" pos="119,-138,4" publishUnderTab="Peg">
+     <module type="PEG" name="Peg" pos="119,-138,5" publishUnderTab="Peg">
       <options>
+       <disabled val="true"/>
        <locked val="true"/>
        <collapsed val="true"/>
        <version val="1"/>
@@ -507,7 +511,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="lieutenant" pos="-2,0,3" publishUnderTab="detective">
+     <module type="READ" name="lieutenant" pos="-2,0,4" publishUnderTab="detective">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -619,7 +623,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="bg" pos="0,0,2" publishUnderTab="bg">
+     <module type="READ" name="bg" pos="0,0,3" publishUnderTab="bg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -731,7 +735,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Detective" pos="0,0,1" publishUnderTab="Detective">
+     <module type="READ" name="Detective" pos="0,0,2" publishUnderTab="Detective">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -843,6 +847,118 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+     <module type="READ" name="Fondo" pos="0,0,1" publishUnderTab="Fondo">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0DA43E5B7DA9A6774F2DB7CA">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
@@ -852,6 +968,7 @@
      <link out="lieutenant" in="Composite" inport="2"/>
      <link out="bg" in="Composite" inport="0"/>
      <link out="Detective" in="Composite" inport="3"/>
+     <link out="Fondo" in="Composite" inport="4"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
@@ -899,7 +1016,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="6C000000000000000303E61B6F428B8BC1E42B218BED2EAEBDF4A761BD4CF4836076A94366AF29756C1ABABD78E806DE0147CEFA529FC0C9D60DDD49F5DB4D1BE6B099E446652BA81C4CE5A0575A4850A387B288806C964264D08FBD051DBDE82596CADA04F209B048FBBD35CE14202013E5D6096B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D4445794E7A45344D6A55774E6C6F5844544D324D4445794E6A45344D6A55774E6C6F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D4442714F485A33596B4642515442634D413047435371475349623344514542415155410A413073414D4567435151444A56706D583861423851727477495667495135785367582F556C775966495A507668367347376668627A4C43556F6F4945512F38380A4C67444E51444F3934437276397474757132523534775A49482F34736F49316E41674D42414145774451594A4B6F5A496876634E4151454642514144675945410A43642F2F4673384B74582B574B6976313474494C56412B65736178456D6C4147414A58336E346D34354B55552B33474C3076394D306A364F466B486B4E6541380A546B58754F3154493553704C334535584B444C4143564E57373352306B39522F6133535A5A3470556B75366D726267796A552B5A334E66736C346D49555838610A695773366A4B556D4E736964324C616C4A4A49577A4854706264676C70583458384D38394E7767335168343D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000005DBFC1D095576333ADC3DEAF0B12FAC5B699AA28D61550F8769924972DCEA7CF38A400F642C7415BDF8A07E9B6D9F4AFEFBF8133705BE551FEB3D49271618F92"/>
+   <value data="6C000000000000000303609DE9C40D0D4762ADA70D6BA8283B7221E73BCA7205E6F02FC5E029AFF3EA9C3C3BFE6E805887C1487CD419464F508B5BCF735DCB9D60361F62C0E3AD2E9ACA6326D1DCCED62501340E06EA10C4E256093B839B3B6EA3104C5C82748F36CE7D3BB34892A6A69563508F6B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D4445794E7A45344D6A55774E6C6F5844544D324D4445794E6A45344D6A55774E6C6F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D4442714F485A33596B4642515442634D413047435371475349623344514542415155410A413073414D4567435151444A56706D583861423851727477495667495135785367582F556C775966495A507668367347376668627A4C43556F6F4945512F38380A4C67444E51444F3934437276397474757132523534775A49482F34736F49316E41674D42414145774451594A4B6F5A496876634E4151454642514144675945410A43642F2F4673384B74582B574B6976313474494C56412B65736178456D6C4147414A58336E346D34354B55552B33474C3076394D306A364F466B486B4E6541380A546B58754F3154493553704C334535584B444C4143564E57373352306B39522F6133535A5A3470556B75366D726267796A552B5A334E66736C346D49555838610A695773366A4B556D4E736964324C616C4A4A49577A4854706264676C70583458384D38394E7767335168343D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000005179482F7236F95F6B08C6953990B78F856E8FBA70C04FD3EE47762E0D19A4828600C71004798F805E2A9544F64F59913DDEB9CF042927BE6815CC4DAE1CFAD9"/>
   </meta>
  </metas>
 </project>
