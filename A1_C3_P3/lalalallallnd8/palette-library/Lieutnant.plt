@@ -1,0 +1,14 @@
+ToonBoomAnimationInc PaletteFile 2
+Solid    pant_hll                   0x0d3e7da64f2e9891  63  61  46 255
+Solid    pant_basee                 0x0d3e7da64f2ecee9  36  37  29 255
+Solid    jack2_base                 0x0d3e7da64f2f09b6  45  27  17 255
+Solid    jack2_hl                   0x0d3e7da64f2f1dfd  63  49  42 255
+Solid    jacket_base                0x0d3e7da64f2f3cac  97  57  39 255
+Solid    jacket_hl                  0x0d3e7da64f2f5aad 186  78  39 255
+Solid    pelo_base                  0x0d3e7da64f2f7d9e  40  34  34 255
+Solid    pelo_claro                 0x0d3e7da64f2fa581  85  86  98 255
+Solid    skin_base                  0x0d3e7da64f2fc890 182 151 122 255
+Solid    skin_hl                    0x0d3e7da64f2ff507 208 189 155 255
+Solid    Nose                       0x0d3e460d7bb13eb1 157  77  49 255
+Solid    shirt_base                 0x0d3e460d7bb16668 185 194 194 255
+Solid    shirt_hl                   0x0d3e460d7bb19789 212 217 210 255

@@ -148,7 +148,7 @@
  <scenes>
   <scene name="Top" id="0d3bb87c2f401770" nbframes="36" startFrame="1" stopFrame="36">
    <columns>
-    <column type="0" name="ATV-0DAF3B50B8877CF92F401F9E" display="false" displayOrder="0" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-0DAF3B50B8877CF92F401F9E" displayOrder="0" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
      <elementSeq exposures="2" val="2" id="2"/>
      <elementSeq exposures="3" val="3" id="2"/>
@@ -224,7 +224,7 @@
      <elementSeq exposures="35" val="35" id="3"/>
      <elementSeq exposures="36" val="36" id="3"/>
     </column>
-    <column type="0" name="ATV-0D813C7E3A74ACD86EB1156A" displayOrder="0" width="100" anonymous="true" id="4">
+    <column type="0" name="ATV-0D813C7E3A74ACD86EB1156A" display="false" displayOrder="0" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-36" val="1" id="4"/>
     </column>
     <column type="0" name="ATV-0D973D68C4CF6C310098C588" displayOrder="0" width="100" anonymous="true" id="5">
@@ -265,7 +265,7 @@
      <elementSeq exposures="35" val="35" id="5"/>
      <elementSeq exposures="36" val="36" id="5"/>
     </column>
-    <column type="0" name="ATV-0DA43E5B7DA9A6774F2DB7CA" displayOrder="0" width="100" anonymous="true" id="6"/>
+    <column type="0" name="ATV-0DA43E5B7DA9A6774F2DB7CA" display="false" displayOrder="0" width="100" anonymous="true" id="6"/>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -275,7 +275,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,7" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="325,-5,3" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -294,13 +294,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,8" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="387,42,9" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,9" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="300,42,4" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -322,7 +322,7 @@
         <filterResX val="720"/>
         <filterResY val="540"/>
        </enabling>
-       <scriptMovie val="false"/>
+       <scriptMovie val="true"/>
        <scriptEditor val="// Following code will be called at the end of Write Node rendering
 // operations to create a movie file from rendered images.
 
@@ -333,10 +333,10 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="lalaland_0253" pos="89,-56,6" publishUnderTab="lalaland_0253">
+     <module type="READ" name="lalaland_0253" pos="481,-78,2" publishUnderTab="lalaland_0253">
       <options>
-       <disabled val="true"/>
        <locked val="true"/>
+       <showTimelineThumb val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -424,7 +424,7 @@
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
        <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
+       <opacity val="85" defaultValue="100"/>
        <textureFilter val="NEAREST_FILTERED"/>
        <adjustPencilThickness val="false"/>
        <normalLineArtThickness val="true"/>
@@ -447,9 +447,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Peg" pos="119,-138,5" publishUnderTab="Peg">
+     <module type="PEG" name="Peg" pos="528,-138,8" publishUnderTab="Peg">
       <options>
-       <disabled val="true"/>
        <locked val="true"/>
        <collapsed val="true"/>
        <version val="1"/>
@@ -511,7 +510,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="lieutenant" pos="-2,0,4" publishUnderTab="detective">
+     <module type="READ" name="lieutenant" pos="305,-78,7" publishUnderTab="detective">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -623,8 +622,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="bg" pos="0,0,3" publishUnderTab="bg">
+     <module type="READ" name="bg" pos="532,-12,1" publishUnderTab="bg">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -735,7 +735,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Detective" pos="0,0,2" publishUnderTab="Detective">
+     <module type="READ" name="Detective" pos="119,-78,6" publishUnderTab="Detective">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -847,8 +847,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Fondo" pos="0,0,1" publishUnderTab="Fondo">
+     <module type="READ" name="Fondo" pos="-60,-78,5" publishUnderTab="Fondo">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -1016,7 +1017,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="6C000000000000000303609DE9C40D0D4762ADA70D6BA8283B7221E73BCA7205E6F02FC5E029AFF3EA9C3C3BFE6E805887C1487CD419464F508B5BCF735DCB9D60361F62C0E3AD2E9ACA6326D1DCCED62501340E06EA10C4E256093B839B3B6EA3104C5C82748F36CE7D3BB34892A6A69563508F6B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D4445794E7A45344D6A55774E6C6F5844544D324D4445794E6A45344D6A55774E6C6F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D4442714F485A33596B4642515442634D413047435371475349623344514542415155410A413073414D4567435151444A56706D583861423851727477495667495135785367582F556C775966495A507668367347376668627A4C43556F6F4945512F38380A4C67444E51444F3934437276397474757132523534775A49482F34736F49316E41674D42414145774451594A4B6F5A496876634E4151454642514144675945410A43642F2F4673384B74582B574B6976313474494C56412B65736178456D6C4147414A58336E346D34354B55552B33474C3076394D306A364F466B486B4E6541380A546B58754F3154493553704C334535584B444C4143564E57373352306B39522F6133535A5A3470556B75366D726267796A552B5A334E66736C346D49555838610A695773366A4B556D4E736964324C616C4A4A49577A4854706264676C70583458384D38394E7767335168343D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000005179482F7236F95F6B08C6953990B78F856E8FBA70C04FD3EE47762E0D19A4828600C71004798F805E2A9544F64F59913DDEB9CF042927BE6815CC4DAE1CFAD9"/>
+   <value data="6C000000000000000303AD502409C0C08AAF606AC0A665E5F6BFEC2AF607BFC82B3DE2082DE4623E2751F1F633A34D954A0C85B119D48B829D469602BE900650ADFBD2AF0D2E60E35707AEEB1C11031BE8CCF9C3CB27DD092F9BC4F64E56F6A36EDD81914FB942FB03B0F67E855F6B6B58AE9D426B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D4445794E7A45344D6A55774E6C6F5844544D324D4445794E6A45344D6A55774E6C6F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D4442714F485A33596B4642515442634D413047435371475349623344514542415155410A413073414D4567435151444A56706D583861423851727477495667495135785367582F556C775966495A507668367347376668627A4C43556F6F4945512F38380A4C67444E51444F3934437276397474757132523534775A49482F34736F49316E41674D42414145774451594A4B6F5A496876634E4151454642514144675945410A43642F2F4673384B74582B574B6976313474494C56412B65736178456D6C4147414A58336E346D34354B55552B33474C3076394D306A364F466B486B4E6541380A546B58754F3154493553704C334535584B444C4143564E57373352306B39522F6133535A5A3470556B75366D726267796A552B5A334E66736C346D49555838610A695773366A4B556D4E736964324C616C4A4A49577A4854706264676C70583458384D38394E7767335168343D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000006C85D3E2B98207AD613BBD4465D6772A2784248C614D343DF50D65452B7F398D69ABAACA1DFB1F5B4BB6BD46CEBCD42D9A922617844E77D2BF07FDD0A6148EA5"/>
   </meta>
  </metas>
 </project>
