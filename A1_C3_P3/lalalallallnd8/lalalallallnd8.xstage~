@@ -240,7 +240,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0d3bb87c2f401770" nbframes="36" startFrame="1" stopFrame="36">
+  <scene name="Top" id="0d3bb87c2f401770" nbframes="36" startFrame="1" stopFrame="5">
    <columns>
     <column type="0" name="ATV-0DAF3B50B8877CF92F401F9E" displayOrder="0" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
@@ -435,7 +435,7 @@
      <elementSeq exposures="35" val="35" id="8"/>
      <elementSeq exposures="36" val="36" id="8"/>
     </column>
-    <column type="0" name="ATV-0D9F3F6035FC849221BC85BB" display="false" displayOrder="0" width="100" anonymous="true" id="9">
+    <column type="0" name="ATV-0D9F3F6035FC849221BC85BB" displayOrder="0" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-36" val="1" id="9"/>
     </column>
     <column type="3" name="ATV-0D5A3FA53568842621BC893F" displayOrder="0" width="100" anonymous="true">
@@ -502,7 +502,7 @@
        <pt val="-0.033333316892279363,0.31231265286310883,0" lockedInTime="36"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0D223FDDBA4B5C9BC9D01515" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0DB33F4CC9F2C38EED401745" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -514,6 +514,7 @@
     </column>
     <column type="3" name="ATV-0D753F8ABA665C3CC9D1A697" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="36" yLocal="0.93835180207282531" y="0.93835180207282531"/>
       <pt constSeg="false" x="11" yLocal="0.98506987544824476" y="0.98506987544824476"/>
@@ -522,6 +523,7 @@
     </column>
     <column type="3" name="ATV-0D923F6DBAD65CA8C9D1A698" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="36" yLocal="0.93835180207282531" y="0.93835180207282531"/>
       <pt constSeg="false" x="11" yLocal="0.98506987544824476" y="0.98506987544824476"/>
@@ -530,6 +532,7 @@
     </column>
     <column type="3" name="ATV-0D0F3FF0BAFE5C4AC9D1A699" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,11,36" yLocal="1" y="1"/>
      </points>
@@ -546,8 +549,9 @@
        <pt val="0,0,0" lockedInTime="36"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0DDA3F25BAA65C02C9D1A69B" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0D053FFAC907C34FED401747" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
+      <noFrames/>
       <points version="2">
        <pt constSeg="false" x="1,11,36" yLocal="0" y="0"/>
       </points>
@@ -558,42 +562,49 @@
     </column>
     <column type="3" name="ATV-0D4F3FB0BA805CF4C9D20173" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="-0.66666633784553297" y="-0.66666633784553297"/>
      </points>
     </column>
     <column type="3" name="ATV-0D9C3F63BA615CA3C9D20174" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="-0.44444422523035687" y="-0.44444422523035687"/>
      </points>
     </column>
     <column type="3" name="ATV-0DBD3F42BA7D5C65C9D20175" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0DAB3F54BAD65CECC9D20176" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-0D5F3FA0BAFF5C25C9D20177" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-0D3D3FC2BABC5C36C9D20178" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0D2E3FD1BAE15C29C9D20179" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
@@ -611,8 +622,9 @@
        <pt val="-4.9111021229081366,-6.298402087964714,0" lockedInTime="36"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0D9B3F64BABA5C1AC9D20508" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0D333FCCC95AC3A8ED401749" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
+      <noFrames/>
       <points version="2">
        <pt constSeg="false" x="1" yLocal="0" y="0"/>
        <pt constSeg="false" x="8" yLocal="9.1109355936578714e-07" y="9.1109355936578714e-07"/>
@@ -623,6 +635,7 @@
     </column>
     <column type="3" name="ATV-0D193FE6BAFE5C8AC9D20581" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="36" yLocal="1.910083386431124" y="1.910083386431124"/>
       <pt constSeg="false" x="25" yLocal="2.0570139242231651" y="2.0570139242231651"/>
@@ -632,6 +645,7 @@
     </column>
     <column type="3" name="ATV-0D0D3FF2BA0A5C72C9D20582" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="36" yLocal="1.910083386431124" y="1.910083386431124"/>
       <pt constSeg="false" x="25" yLocal="2.0570139242231651" y="2.0570139242231651"/>
@@ -641,6 +655,7 @@
     </column>
     <column type="3" name="ATV-0D2E3FD1BAC15C67C9D20583" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,8,25,36" yLocal="1" y="1"/>
      </points>
@@ -658,8 +673,9 @@
        <pt val="0,0,0" lockedInTime="36"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0DD53F2ABA2D5C05C9D20585" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0D8C3F73C9F9C315ED40174B" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
+      <noFrames/>
       <points version="2">
        <pt constSeg="false" x="1,8,25,36" yLocal="0" y="0"/>
       </points>
@@ -675,7 +691,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="826,-30,15" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="826,-30,14" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -694,13 +710,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="896,30,10" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="896,30,9" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="767,30,12" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="767,30,11" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -737,7 +753,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="lalaland_0253" pos="1438,-90,14" publishUnderTab="lalaland_0253">
+     <module type="READ" name="lalaland_0253" pos="1438,-90,13" publishUnderTab="lalaland_0253">
       <options>
        <locked val="true"/>
        <showTimelineThumb val="true"/>
@@ -851,7 +867,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="lieutenant_w_color" pos="615,-125,5" publishUnderTab="lieutenant">
+     <module type="READ" name="lieutenant_w_color" pos="615,-125,4" publishUnderTab="lieutenant">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -963,7 +979,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="arbol1" pos="1043,-90,11" publishUnderTab="arbol1">
+     <module type="READ" name="arbol1" pos="1043,-90,10" publishUnderTab="arbol1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1075,9 +1091,8 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Fondo_1" pos="1243,-90,7" publishUnderTab="Fondo_1">
+     <module type="READ" name="Fondo_1" pos="1243,-90,6" publishUnderTab="Fondo_1">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -1188,7 +1203,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Peg" pos="1483,-150,18" publishUnderTab="Peg">
+     <module type="PEG" name="Peg" pos="1483,-150,17" publishUnderTab="Peg">
       <options>
        <locked val="true"/>
        <collapsed val="true"/>
@@ -1251,7 +1266,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Detective_w_color" pos="186,-90,9" publishUnderTab="Detective">
+     <module type="READ" name="Detective_w_color" pos="186,-90,8" publishUnderTab="Detective">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1363,7 +1378,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="lieutenant" pos="413,-90,17" publishUnderTab="detective">
+     <module type="READ" name="lieutenant" pos="413,-90,16" publishUnderTab="detective">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1475,7 +1490,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="bg" pos="1673,-90,13" publishUnderTab="bg">
+     <module type="READ" name="bg" pos="1673,-90,12" publishUnderTab="bg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1587,7 +1602,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Detective" pos="0,-90,16" publishUnderTab="Detective">
+     <module type="READ" name="Detective" pos="0,-90,15" publishUnderTab="Detective">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1699,7 +1714,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="arbol2" pos="0,0,3" publishUnderTab="arbol2">
+     <module type="READ" name="arbol2" pos="0,0,2" publishUnderTab="arbol2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1811,7 +1826,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="arbol1-P" pos="1058,-150,4" publishUnderTab="arbol1-P">
+     <module type="PEG" name="arbol1-P" pos="1058,-150,3" publishUnderTab="arbol1-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1875,7 +1890,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="CAMERA" name="Camera" pos="675,30,6" publishUnderTab="Camera">
+     <module type="CAMERA" name="Camera" pos="675,30,5" publishUnderTab="Camera">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1897,7 +1912,7 @@
        <farPlane val="1000" defaultValue="1000"/>
       </attrs>
      </module>
-     <module type="PEG" name="Camera-P" pos="662,-30,8" publishUnderTab="Camera-P">
+     <module type="PEG" name="Camera-P" pos="662,-30,7" publishUnderTab="Camera-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2087,7 +2102,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="6C0000000000000003033CC1B59851511B3EF1FB5137F474672E7DBB67962E59BAAC7399BC75F3AFB6C06067A232DC04DB9D142088451A130CD707932F0197C13C6A433E9CBFF172C6963F7A8D80928A795D68525AB64C98BE0A5567DFC76732FF4C1000DE28D36A922167EF14CEFAFAC93F0CD36B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D4445794E7A45344D6A51794F466F5844544D324D4445794E6A45344D6A51794F466F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D4442714F485A33596B4642515442634D413047435371475349623344514542415155410A413073414D456743515143393238716D5A766C56496171786C3569437772557A61585268474F716746747546596F6F5A4B51343874472B362B456735426A36630A38344363504B75533634587A676C6C474B534D50315A386E306638333838653941674D42414145774451594A4B6F5A496876634E4151454642514144675945410A4D39436E62794772365341433435336876646A305463343655744D574C56724E7A46737779516633654C5A41355A7535716639622B654D65547057516B6A52570A6E315A456C7075647A646676515075364E4C43624C5050495576446B546844334D4932393754782B612F487257554D5838547A4B54746339376A6C36547830490A54314D7550654E3941766C702B784770334A2B636F7449445767677856574868736E524A776844385657303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000001E783BE890D912400DF07D22F55293F47B41641BDBE8110628856D1EA9E1A3958AED380A3BA65837757CF4E5256C7F00EB0C27771AF47BF8E42FF76338E936DB"/>
+   <value data="6C00000000000000030336CBBF925B5B1134FBF15B3DFE7E6D2477B16D9C2453B0A67993B67FF9A5BCCA6A6DA838D60ED1971E2A824F101906DD0D99250B9DCB3660493496B5FB78CC9C3570878A98807357625850BC4692B4005F6DD5CD6D38F5461A0AD422D960982B6DE51EC4F0F0C33506D96B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D4445794E7A45344D6A55774E6C6F5844544D324D4445794E6A45344D6A55774E6C6F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D4442714F485A33596B4642515442634D413047435371475349623344514542415155410A413073414D4567435151444A56706D583861423851727477495667495135785367582F556C775966495A507668367347376668627A4C43556F6F4945512F38380A4C67444E51444F3934437276397474757132523534775A49482F34736F49316E41674D42414145774451594A4B6F5A496876634E4151454642514144675945410A43642F2F4673384B74582B574B6976313474494C56412B65736178456D6C4147414A58336E346D34354B55552B33474C3076394D306A364F466B486B4E6541380A546B58754F3154493553704C334535584B444C4143564E57373352306B39522F6133535A5A3470556B75366D726267796A552B5A334E66736C346D49555838610A695773366A4B556D4E736964324C616C4A4A49577A4854706264676C70583458384D38394E7767335168343D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000000B776E4C0362DAE1BDECABBB314AD98340A599611618A305005742C610F73628A00DD3E99518289FCFDA40DBF11E3D7B4F48739B031FA2E7617603C05213783A"/>
   </meta>
  </metas>
 </project>
