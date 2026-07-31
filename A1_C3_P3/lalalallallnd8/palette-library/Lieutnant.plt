@@ -12,3 +12,4 @@ Solid    skin_hl                    0x0d3e7da64f2ff507 208 189 155 255
 Solid    Nose                       0x0d3e460d7bb13eb1 157  77  49 255
 Solid    shirt_base                 0x0d3e460d7bb16668 185 194 194 255
 Solid    shirt_hl                   0x0d3e460d7bb19789 212 217 210 255
+Solid    Ledger                     0x0d3ffca2f687ffc7  55  57  98 255
