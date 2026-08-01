@@ -1,5 +1,5 @@
 ToonBoomAnimationInc PaletteFile 2
-Solid    linea                      0x0d3c354d5b0020df 255 255 255 255
+Solid    linea                      0x0d3c354d5b0020df   0   0   0 255
 Solid    DiscoBlz_hl                0x0d3e460d7bb22177  86  92  54 255
 Solid    DiscoBlz_midt              0x0d3e460d7bb1eb53  61  85  71 255
 Solid    DiscoBlz_base              0x0d3e7da64f2d61d2  72  71  34 255
