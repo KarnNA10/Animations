@@ -745,7 +745,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="804,-52,5" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="804,-52,1" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -764,13 +764,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="872,-7,19" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="872,-7,18" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="814,26,8" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="814,26,7" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -807,7 +807,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="lalaland_0253" pos="1079,-147,10" publishUnderTab="lalaland_0253">
+     <module type="READ" name="lalaland_0253" pos="1079,-147,9" publishUnderTab="lalaland_0253">
       <options>
        <disabled val="true"/>
        <locked val="true"/>
@@ -922,7 +922,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="lieutenant_w_color" pos="571,-127,1" publishUnderTab="lieutenant">
+     <module type="READ" name="lieutenant_w_color" pos="571,-127,3" publishUnderTab="lieutenant">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1007,7 +1007,7 @@
        <readTransparency val="true"/>
        <colorTransformation val="Linear"/>
        <colorSpace val="sRGB"/>
-       <applyMatteToColor val="N"/>
+       <applyMatteToColor val="M"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
        <antialiasingExponent val="1" defaultValue="1"/>
@@ -1034,7 +1034,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="arbol1" pos="869,-147,12" publishUnderTab="arbol1">
+     <module type="READ" name="arbol1" pos="869,-147,11" publishUnderTab="arbol1">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -1147,7 +1147,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Fondo_1" pos="995,-176,11" publishUnderTab="Fondo_1">
+     <module type="READ" name="Fondo_1" pos="995,-176,10" publishUnderTab="Fondo_1">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -1260,7 +1260,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Video_OG" pos="1111,-206,20" publishUnderTab="Peg">
+     <module type="PEG" name="Video_OG" pos="1111,-206,19" publishUnderTab="Peg">
       <options>
        <disabled val="true"/>
        <locked val="true"/>
@@ -1409,7 +1409,7 @@
        <readTransparency val="true"/>
        <colorTransformation val="Linear"/>
        <colorSpace val="sRGB"/>
-       <applyMatteToColor val="N"/>
+       <applyMatteToColor val="M"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
        <antialiasingExponent val="1" defaultValue="1"/>
@@ -1436,7 +1436,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="lieutenant" pos="473,-152,14" publishUnderTab="detective">
+     <module type="READ" name="lieutenant" pos="473,-152,13" publishUnderTab="detective">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -1549,7 +1549,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="bg" pos="1206,-116,9" publishUnderTab="bg">
+     <module type="READ" name="bg" pos="1206,-116,8" publishUnderTab="bg">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -1662,7 +1662,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Detective" pos="480,-201,16" publishUnderTab="Detective">
+     <module type="READ" name="Detective" pos="480,-201,15" publishUnderTab="Detective">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -1775,7 +1775,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="arbol2" pos="771,-176,13" publishUnderTab="arbol2">
+     <module type="READ" name="arbol2" pos="771,-176,12" publishUnderTab="arbol2">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -1888,7 +1888,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="arbol1-P" pos="884,-209,18" publishUnderTab="arbol1-P">
+     <module type="PEG" name="arbol1-P" pos="884,-209,17" publishUnderTab="arbol1-P">
       <options>
        <disabled val="true"/>
        <collapsed val="true"/>
@@ -1953,7 +1953,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="CAMERA" name="Camera" pos="720,53,7" publishUnderTab="Camera">
+     <module type="CAMERA" name="Camera" pos="720,53,6" publishUnderTab="Camera">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1975,7 +1975,7 @@
        <farPlane val="1000" defaultValue="1000"/>
       </attrs>
      </module>
-     <module type="PEG" name="Camera-P" pos="715,-7,6" publishUnderTab="Camera-P">
+     <module type="PEG" name="Camera-P" pos="715,-7,5" publishUnderTab="Camera-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2037,7 +2037,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="arbol2-P" pos="788,-230,17" publishUnderTab="arbol2-P">
+     <module type="PEG" name="arbol2-P" pos="788,-230,16" publishUnderTab="arbol2-P">
       <options>
        <disabled val="true"/>
        <collapsed val="true"/>
@@ -2102,7 +2102,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Banca" pos="530,-21,15" publishUnderTab="Banca">
+     <module type="READ" name="Banca" pos="530,-21,14" publishUnderTab="Banca">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2282,17 +2282,17 @@
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
      <link out="lalaland_0253" in="Composite" inport="1"/>
-     <link out="lieutenant_w_color" in="Composite" inport="6"/>
+     <link out="lieutenant_w_color" in="Composite" inport="7"/>
      <link out="arbol1" in="Composite" inport="3"/>
      <link out="Fondo_1" in="Composite" inport="2"/>
      <link out="Video_OG" in="lalaland_0253" inport="0"/>
-     <link out="Detective_w_color" in="Composite" inport="5"/>
+     <link out="Detective_w_color" in="Composite" inport="6"/>
      <link out="bg" in="Composite" inport="0"/>
      <link out="arbol2" in="Composite" inport="4"/>
      <link out="arbol1-P" in="arbol1" inport="0"/>
      <link out="Camera-P" in="Camera"/>
      <link out="arbol2-P" in="arbol2" inport="0"/>
-     <link out="Banca" in="Composite" inport="7"/>
+     <link out="Banca" in="Composite" inport="5"/>
      <link out="Banca-P" in="Banca" inport="0"/>
     </linkedlist>
    </rootgroup>
@@ -2341,7 +2341,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="6C0000000000000003038E73072AE3E3A98C4349E38546C6D59CCF09D5249CEB081EC12B0EC7411D0472D2D510806EB6692FA6923AF7A8A1BE65B5219DB325738ED8F18C2E0D43C074248DC83F322038CBEFDAE0E804FE2A0CB8E7D56D75D5804DFEA2B26C9A61D82093D55DA67C48487B8DBE616B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D4445794E7A45344D6A55774E6C6F5844544D324D4445794E6A45344D6A55774E6C6F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D4442714F485A33596B4642515442634D413047435371475349623344514542415155410A413073414D4567435151444A56706D583861423851727477495667495135785367582F556C775966495A507668367347376668627A4C43556F6F4945512F38380A4C67444E51444F3934437276397474757132523534775A49482F34736F49316E41674D42414145774451594A4B6F5A496876634E4151454642514144675945410A43642F2F4673384B74582B574B6976313474494C56412B65736178456D6C4147414A58336E346D34354B55552B33474C3076394D306A364F466B486B4E6541380A546B58754F3154493553704C334535584B444C4143564E57373352306B39522F6133535A5A3470556B75366D726267796A552B5A334E66736C346D49555838610A695773366A4B556D4E736964324C616C4A4A49577A4854706264676C70583458384D38394E7767335168343D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000001817E9D9448A90A32F5332161C70E8E286AA2C964622642D26457AA846FD2002ACB6905B8AB1DE1B162A7BDB8E3C2422C111E24541E8416098A60FF17425DC4D"/>
+   <value data="6C00000000000000030306FB8FA26B6B2104CBC16B0DCE4E5D1447815DAC1463809649A3864FC9958CFA5A5D9808E63EE1A72E1AB27F202936ED3DA9153BADFB06507904A685CB48FCAC0540B7BAA8B043675268608C76A284306F5DE5FD5D08C5762A3AE412E950A81B5DD52EF4C0C0F30536E96B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D4445794E7A45344D6A55774E6C6F5844544D324D4445794E6A45344D6A55774E6C6F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D4442714F485A33596B4642515442634D413047435371475349623344514542415155410A413073414D4567435151444A56706D583861423851727477495667495135785367582F556C775966495A507668367347376668627A4C43556F6F4945512F38380A4C67444E51444F3934437276397474757132523534775A49482F34736F49316E41674D42414145774451594A4B6F5A496876634E4151454642514144675945410A43642F2F4673384B74582B574B6976313474494C56412B65736178456D6C4147414A58336E346D34354B55552B33474C3076394D306A364F466B486B4E6541380A546B58754F3154493553704C334535584B444C4143564E57373352306B39522F6133535A5A3470556B75366D726267796A552B5A334E66736C346D49555838610A695773366A4B556D4E736964324C616C4A4A49577A4854706264676C70583458384D38394E7767335168343D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000000150775F9518445E1923118D29C9BA92ADAAF964226AE1A1C1F9C6DE844F72297F23D2E808B04DB7E0C9F00687274ACB1023377EDDAB0143F189C4D8B1F8CE14"/>
   </meta>
  </metas>
 </project>
