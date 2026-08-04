@@ -749,7 +749,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="804,-52,1" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="804,-52,2" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -768,20 +768,20 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="872,-7,18" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="872,-7,19" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="814,26,7" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="814,26,1" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
       <attrs>
        <exportToMovie val="false"/>
-       <drawingName val="frames/final-"/>
+       <drawingName val="C:/Users/AQUA2/Documents/GitHub/Animations/A1_C3_P3/ExportedProject/8/Lalaland_08_"/>
        <moviePath val="frames/output"/>
        <movieFormat val="com.toonboom.quicktime.legacy"/>
        <movieAudio val=""/>
@@ -789,7 +789,7 @@
        <movieVideoaudio val=""/>
        <leadingZeros val="3"/>
        <start val="1"/>
-       <drawingType val="TGA"/>
+       <drawingType val="PNG"/>
        <enabling>
         <filter val="ALWAYS"/>
         <filterName val=""/>
@@ -811,7 +811,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="lalaland_0253" pos="1079,-147,9" publishUnderTab="lalaland_0253">
+     <module type="READ" name="lalaland_0253" pos="1079,-147,10" publishUnderTab="lalaland_0253">
       <options>
        <disabled val="true"/>
        <locked val="true"/>
@@ -926,7 +926,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="lieutenant_w_color" pos="571,-127,3" publishUnderTab="lieutenant">
+     <module type="READ" name="lieutenant_w_color" pos="571,-127,4" publishUnderTab="lieutenant">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1038,7 +1038,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="arbol1" pos="869,-147,11" publishUnderTab="arbol1">
+     <module type="READ" name="arbol1" pos="869,-147,12" publishUnderTab="arbol1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1150,7 +1150,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Fondo_1" pos="995,-176,10" publishUnderTab="Fondo_1">
+     <module type="READ" name="Fondo_1" pos="995,-176,11" publishUnderTab="Fondo_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1262,7 +1262,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Video_OG" pos="1111,-206,19" publishUnderTab="Peg">
+     <module type="PEG" name="Video_OG" pos="1111,-206,20" publishUnderTab="Peg">
       <options>
        <disabled val="true"/>
        <locked val="true"/>
@@ -1326,7 +1326,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Detective_w_color" pos="567,-176,4" publishUnderTab="Detective">
+     <module type="READ" name="Detective_w_color" pos="567,-176,5" publishUnderTab="Detective">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1438,7 +1438,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="lieutenant" pos="473,-152,13" publishUnderTab="detective">
+     <module type="READ" name="lieutenant" pos="473,-152,14" publishUnderTab="detective">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -1551,7 +1551,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="bg" pos="1206,-116,8" publishUnderTab="bg">
+     <module type="READ" name="bg" pos="1206,-116,9" publishUnderTab="bg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1663,7 +1663,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Detective" pos="480,-201,15" publishUnderTab="Detective">
+     <module type="READ" name="Detective" pos="480,-201,16" publishUnderTab="Detective">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -1776,7 +1776,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="arbol2" pos="771,-176,12" publishUnderTab="arbol2">
+     <module type="READ" name="arbol2" pos="771,-176,13" publishUnderTab="arbol2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1888,7 +1888,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="arbol1-P" pos="884,-209,17" publishUnderTab="arbol1-P">
+     <module type="PEG" name="arbol1-P" pos="884,-209,18" publishUnderTab="arbol1-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -1952,7 +1952,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="CAMERA" name="Camera" pos="720,53,6" publishUnderTab="Camera">
+     <module type="CAMERA" name="Camera" pos="720,53,7" publishUnderTab="Camera">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1974,7 +1974,7 @@
        <farPlane val="1000" defaultValue="1000"/>
       </attrs>
      </module>
-     <module type="PEG" name="Camera-P" pos="715,-7,5" publishUnderTab="Camera-P">
+     <module type="PEG" name="Camera-P" pos="715,-7,6" publishUnderTab="Camera-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2036,7 +2036,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="arbol2-P" pos="788,-230,16" publishUnderTab="arbol2-P">
+     <module type="PEG" name="arbol2-P" pos="788,-230,17" publishUnderTab="arbol2-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2100,7 +2100,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Banca" pos="530,-21,14" publishUnderTab="Banca">
+     <module type="READ" name="Banca" pos="530,-21,15" publishUnderTab="Banca">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2212,7 +2212,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Banca-P" pos="546,-81,2" publishUnderTab="Banca-P">
+     <module type="PEG" name="Banca-P" pos="546,-81,3" publishUnderTab="Banca-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2339,7 +2339,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="6C0000000000000003032DD0A48940400A2FE0EA4026E565763F6CAA76873F48ABBD6288AD64E2BEA7D17176B323CD15CA8C053199540B021DC616823E1086D02D7B522F8DAEE063D7872E6B9C91839B684C79434BA75D89AF1B4476CED67623EE5D0111CF39C27B833076FE05DFEBEBD82E1DC26B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D4445794E7A45344D6A51794F466F5844544D324D4445794E6A45344D6A51794F466F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D4442714F485A33596B4642515442634D413047435371475349623344514542415155410A413073414D456743515143393238716D5A766C56496171786C3569437772557A61585268474F716746747546596F6F5A4B51343874472B362B456735426A36630A38344363504B75533634587A676C6C474B534D50315A386E306638333838653941674D42414145774451594A4B6F5A496876634E4151454642514144675945410A4D39436E62794772365341433435336876646A305463343655744D574C56724E7A46737779516633654C5A41355A7535716639622B654D65547057516B6A52570A6E315A456C7075647A646676515075364E4C43624C5050495576446B546844334D4932393754782B612F487257554D5838547A4B54746339376A6C36547830490A54314D7550654E3941766C702B784770334A2B636F7449445767677856574868736E524A776844385657303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000000CA2AC1FB841CDA8402144A3C224CEC80B32625D7EB36101EF89AAC554C8C34ED47CFEBA91BB2168676FE4D6D9189F2EF015FD7ED6B8D3D6AD98D107DE878EAD"/>
+   <value data="6C00000000000000030327DAAE834A4A0025EAE04A2CEF6F7C3566A07C8D3542A1B76882A76EE8B4ADDB7B7CB929C71FC0860F3B935E010817CC1C88341A8CDA2771582587A4EA69DD8D2461969B89916246734941AD5783A5114E7CC4DC7C29E4570B1BC533C871893A7CF40FD5E1E1D22417C86B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D4445794E7A45344D6A51794F466F5844544D324D4445794E6A45344D6A51794F466F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D4442714F485A33596B4642515442634D413047435371475349623344514542415155410A413073414D456743515143393238716D5A766C56496171786C3569437772557A61585268474F716746747546596F6F5A4B51343874472B362B456735426A36630A38344363504B75533634587A676C6C474B534D50315A386E306638333838653941674D42414145774451594A4B6F5A496876634E4151454642514144675945410A4D39436E62794772365341433435336876646A305463343655744D574C56724E7A46737779516633654C5A41355A7535716639622B654D65547057516B6A52570A6E315A456C7075647A646676515075364E4C43624C5050495576446B546844334D4932393754782B612F487257554D5838547A4B54746339376A6C36547830490A54314D7550654E3941766C702B784770334A2B636F7449445767677856574868736E524A776844385657303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A4000000013890C1BF65F356174C822E85BA005A7C3AF6DCCDF70837BF854C556A35117C205F161718409F9A7D77ADFE9DB2AA8CD5868477E46EEE50F278D7150560AE349"/>
   </meta>
  </metas>
 </project>
